@@ -1,0 +1,8 @@
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\bin\Debug\TextAnalyticsSample.exe.config
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\bin\Debug\TextAnalyticsSample.exe
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\bin\Debug\TextAnalyticsSample.pdb
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\obj\Debug\TextAnalyticsSample.csprojResolveAssemblyReference.cache
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\obj\Debug\TextAnalyticsSample.exe
+C:\Users\ncatalogna\Documents\GitHub\RedditBotText\ExplainToMe-master\Vs\RedditRootSystemApi\TextAnalyticsSample\obj\Debug\TextAnalyticsSample.pdb
